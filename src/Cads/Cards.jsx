@@ -49,17 +49,17 @@ class Cards extends Component {
                 </div>
                 <div className="col-md-4">
                     <div className="container p-5">
-                    <Card imgsrc={img7}title="Swimming"/>
+                    <Card imgsrc={img8}title="Swimming"/>
                     </div>
                 </div>
                 <div className="col-md-4">
                     <div className="container p-5">
-                    <Card imgsrc={img8}title="Astrology"/>
+                    <Card imgsrc={img9}title="Astrology"/>
                     </div>
                 </div>
                 <div className="col-md-4">
                     <div className="container p-5">
-                    <Card imgsrc={img9}title="Arts and Culture"/>
+                    <Card imgsrc={img7}title="Arts and Culture"/>
                     </div>
                 </div>
             </div>
