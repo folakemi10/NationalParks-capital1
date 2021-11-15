@@ -19,4 +19,8 @@ I couldn't figure out how to use react router to navigate to a different page on
 ## License
 Copyright 2019 Folakemi Shofu
 
+## Acknowledgments
+Inspiration.
+*(https://github.com/machadop1407/React-Search-Bar)
+
 
