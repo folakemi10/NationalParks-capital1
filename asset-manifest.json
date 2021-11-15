@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/NationalParks-capital1/static/css/main.88ee630f.chunk.css",
+    "main.css": "/NationalParks-capital1/static/css/main.38493731.chunk.css",
     "main.js": "/NationalParks-capital1/static/js/main.b87c9289.chunk.js",
     "main.js.map": "/NationalParks-capital1/static/js/main.b87c9289.chunk.js.map",
     "runtime-main.js": "/NationalParks-capital1/static/js/runtime-main.c1993d68.js",
@@ -10,13 +10,12 @@
     "static/js/2.07167560.chunk.js.map": "/NationalParks-capital1/static/js/2.07167560.chunk.js.map",
     "index.html": "/NationalParks-capital1/index.html",
     "static/css/2.383c0125.chunk.css.map": "/NationalParks-capital1/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.88ee630f.chunk.css.map": "/NationalParks-capital1/static/css/main.88ee630f.chunk.css.map",
+    "static/css/main.38493731.chunk.css.map": "/NationalParks-capital1/static/css/main.38493731.chunk.css.map",
     "static/js/2.07167560.chunk.js.LICENSE.txt": "/NationalParks-capital1/static/js/2.07167560.chunk.js.LICENSE.txt",
     "static/media/Arts.3c37a4a8.jpg": "/NationalParks-capital1/static/media/Arts.3c37a4a8.jpg",
     "static/media/astronomy.9a767ce7.jpg": "/NationalParks-capital1/static/media/astronomy.9a767ce7.jpg",
     "static/media/hiking.9e619966.jpg": "/NationalParks-capital1/static/media/hiking.9e619966.jpg",
     "static/media/padling.9c0fa431.jpg": "/NationalParks-capital1/static/media/padling.9c0fa431.jpg",
-    "static/media/Header.css": "/NationalParks-capital1/static/media/park.aa51a41f.jpg",
     "static/media/rafting.03c1324c.jpg": "/NationalParks-capital1/static/media/rafting.03c1324c.jpg",
     "static/media/rockClimbing.27e2938c.jpg": "/NationalParks-capital1/static/media/rockClimbing.27e2938c.jpg",
     "static/media/snow.e94acffd.jpg": "/NationalParks-capital1/static/media/snow.e94acffd.jpg",
@@ -27,7 +26,7 @@
     "static/js/runtime-main.c1993d68.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.07167560.chunk.js",
-    "static/css/main.88ee630f.chunk.css",
+    "static/css/main.38493731.chunk.css",
     "static/js/main.b87c9289.chunk.js"
   ]
 }
