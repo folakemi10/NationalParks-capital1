@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/NationalParks-capital1/static/css/main.38493731.chunk.css",
-    "main.js": "/NationalParks-capital1/static/js/main.b87c9289.chunk.js",
-    "main.js.map": "/NationalParks-capital1/static/js/main.b87c9289.chunk.js.map",
+    "main.css": "/NationalParks-capital1/static/css/main.8c2f9a3d.chunk.css",
+    "main.js": "/NationalParks-capital1/static/js/main.ff10239c.chunk.js",
+    "main.js.map": "/NationalParks-capital1/static/js/main.ff10239c.chunk.js.map",
     "runtime-main.js": "/NationalParks-capital1/static/js/runtime-main.c1993d68.js",
     "runtime-main.js.map": "/NationalParks-capital1/static/js/runtime-main.c1993d68.js.map",
     "static/css/2.383c0125.chunk.css": "/NationalParks-capital1/static/css/2.383c0125.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.07167560.chunk.js.map": "/NationalParks-capital1/static/js/2.07167560.chunk.js.map",
     "index.html": "/NationalParks-capital1/index.html",
     "static/css/2.383c0125.chunk.css.map": "/NationalParks-capital1/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.38493731.chunk.css.map": "/NationalParks-capital1/static/css/main.38493731.chunk.css.map",
+    "static/css/main.8c2f9a3d.chunk.css.map": "/NationalParks-capital1/static/css/main.8c2f9a3d.chunk.css.map",
     "static/js/2.07167560.chunk.js.LICENSE.txt": "/NationalParks-capital1/static/js/2.07167560.chunk.js.LICENSE.txt",
     "static/media/Arts.3c37a4a8.jpg": "/NationalParks-capital1/static/media/Arts.3c37a4a8.jpg",
     "static/media/astronomy.9a767ce7.jpg": "/NationalParks-capital1/static/media/astronomy.9a767ce7.jpg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.c1993d68.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.07167560.chunk.js",
-    "static/css/main.38493731.chunk.css",
-    "static/js/main.b87c9289.chunk.js"
+    "static/css/main.8c2f9a3d.chunk.css",
+    "static/js/main.ff10239c.chunk.js"
   ]
 }
