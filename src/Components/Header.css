@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(../assets/park.jpg);
+    color:  rgb(5, 4, 3);
+    padding: 20px 0; 
+    width: 100%;
+}
+
+.font-link {
+    font-family: 'Lobster', cursive;
+  }

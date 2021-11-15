@@ -1,0 +1,27 @@
+
+.card{
+    width: 20rem;
+}
+
+.card:hover{
+    box-shadow: 5px 10px 20px 1px rgb(41, 0, 0)!important;
+}
+
+.card-body{
+    padding: 3rem 0 !important;
+    background-color: white;
+}
+
+
+.container-fluid.row{
+    padding-top: 30rem;
+}
+
+.card-img-top{
+    transform: scale(1.002);
+    transition: transform 0.5s ease;
+}
+
+.card-img-top:hover{
+    transform: scale(1.1);
+}

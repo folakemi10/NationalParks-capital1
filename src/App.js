@@ -1,25 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './Components/Header';
+import Footer from './Components/Footer';
+import Cards from './Cads/Cards';
+import Router from './Components/Router';
+import SearchBar from './Components/SearchBar';
+import ParkData from "./Data.json";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Header />
+      <SearchBar placeholder ="Want to eplore a state..?" data ={ParkData}/>
+      <Cards />
+      <Router/>
+      <Footer />
+   </div>
   );
 }
-
+    
 export default App;

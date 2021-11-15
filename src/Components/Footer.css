@@ -1,0 +1,8 @@
+.footer {
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: rgb(48, 3, 3);
+color:  rgb(243, 238, 233);
+width: 100%;
+}
