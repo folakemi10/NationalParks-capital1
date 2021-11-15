@@ -21,6 +21,6 @@ Copyright 2019 Folakemi Shofu
 
 ## Acknowledgments
 Inspiration.
-*(https://github.com/machadop1407/React-Search-Bar)
+https://www.youtube.com/watch?v=x7niho285qs&t=909s
 
 
