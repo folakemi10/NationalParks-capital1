@@ -9,11 +9,11 @@ After selecting a specific park, the app should pull up an informational page so
 Visitors can retrieve data from park web cams based on which National Park(s) the user selects. Specifically, this feature should be able to display the non-streaming images collected from park web cams so a visitor can view them with ease.
 
 ## Features Implemented
-none
+-displays states and activities
 
 
 ## Challenges
-I couldn't figure out how to use react router to navigate to a different page on button click so my app doesn't function
+I couldn't figure out how to use react router to navigate to a different page on button click
 
 
 ## License
