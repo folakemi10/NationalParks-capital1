@@ -13,10 +13,6 @@ Visitors can retrieve data from park web cams based on which National Park(s) th
 -displays states and activities
 
 
-## Challenges
-I couldn't figure out how to use react router to navigate to a different page on button click
-
-
 ## License
 Copyright 2019 Folakemi Shofu
 
